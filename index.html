@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>じゃんけんぽん</title>
+  </head>
+  <body>
+   
+    <div class="container">
+        <h1>XKL</h1>
+      <button data-text="Awesome" class="h1-css">
+        <span class="actual-text">&nbsp;じゃんけんぽん&nbsp;</span>
+        <span class="hover-text" aria-hidden="true">&nbsp;Jankenpon&nbsp;</span>
+      </button>
+
+      <div class="buttons">
+        <button id="rock" onclick="PlayHuman('rock')">&#9994;</button>
+        <button id="paper" onclick="PlayHuman('paper')">&#9995;</button>
+        <button id="scissors" onclick="PlayHuman('scissors')">&#9996;</button>
+      </div>
+      <p class="result"></p>
+      <p class="score">スコア: <span id="human-score">0</span></p>
+      <p class="IA">AIのスコア: <span id="machine-score">0</span></p>
+    </div>
+    <script src="script.js"></script>
+    <a id="git-logo" href="https://github.com/LuckxSz"><img
+        src="assets/github-mark-white.png"
+        alt="git-logo";
+        width="40px";
+        height="40px" ;
+      />
+  </body>
+</html>
