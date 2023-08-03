@@ -1,6 +1,5 @@
 I made a jonkenpon game using  html/css/js <br> 
 hope you enjoy 
+you can acess this project here : https://luckxsz.github.io/jankenpon-game/
 
-
-![image](https://github.com/LuckxSz/jankenpon-game/assets/135531180/99bf026a-9889-4971-8551-0c15ad46baa3)
-
+![jonkenpo](https://github.com/LuckxSz/jankenpon-game/assets/135531180/a60d319a-1450-4b64-96de-8ea551844228)
